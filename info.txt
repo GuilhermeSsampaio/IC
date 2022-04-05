@@ -1,0 +1,13 @@
+
+Karla Katerine Barbosa de Lima
+Anexos
+qui., 24 de mar. 08:55 (há 11 dias)
+para mim
+
+Bom dia, Guilherme! Tudo bem?
+Em anexo, temos um artigo sobre modelagem da conta de energia do estado do Paraná. É o que queremos fazer, tanto matematicamente, quanto computacionalmente. O trabalho acima está dividido em duas partes: modelar a tarifa baixa renda e a  convencional. Vamos dividir nosso trabalho assim também. 
+
+
+
+
+Então, para essa primeira etapa, preciso que você verifique no site da Energisa (seção informações --> tarifas) qual a tabela de desconto usada na Tarifa Baixa Renda. Quero que você me dê a função que associa o consumo com o desconto dado, no modelo de funções de várias sentenças. Depois, montar um programa no Colab cuja entrada será o consumo e a saída vai ser qual o desconto que o cidadão tem direito.
